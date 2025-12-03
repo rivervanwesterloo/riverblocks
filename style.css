@@ -125,8 +125,8 @@
 }
 
 .popup {
-  height: 160vh;
-  width: 100vw;
+  height: 80vh;
+  width: 50vw;
   display: flex;
   justify-content: center;
   text-align: left; 
@@ -235,6 +235,7 @@
   background: #000;
   color: #fff;
 }
+
 
 
 
